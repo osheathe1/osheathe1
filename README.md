@@ -1,7 +1,9 @@
-- 👋 Hi, I’m JaMionn Fletcher (Jay)
-- 👀 I’m interested in Quality Engineering and Software Engineering.
-- 🌱 I recently gradurated from University of Texas - Austin as a Full Stack Web Developher.
-- 📫 How to reach me 
+👋 Hi, I’m JaMionn Fletcher (Jay)
+
+👀 I’m interested in Quality Engineering and Software Engineering.
+
+🌱 I recently graduated from The University of Texas - Austin as a Full Stack Web Developer.
+     📫 How to reach me 
     
     jamionnf@gmail.com
     
